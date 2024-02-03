@@ -158,16 +158,16 @@ section{
 
 @keyframes animate{
     0%,100%{
-        background-image: url('plain bg4.png');
+        background-image: url('outside room.png');
     }
     25%{
-        background-image: url('plain bg3.png');
+        background-image: url('vacay.jpg');
     }
     50%{
-        background-image: url('plain bg2.png');
+        background-image: url('random2.jpg');
     }
     75%{
-        background-image: url('plain bg.png');
+        background-image: url('1st.png');
     }
 }
 
