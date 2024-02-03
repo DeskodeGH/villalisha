@@ -325,6 +325,7 @@ header.sticky{
     font-weight: 600;
     line-height: 25px;
     text-align: center;
+    margin-top: 50px;
 }
 
 .Dest-text h2{
@@ -334,7 +335,7 @@ header.sticky{
     font-weight: 600;
     font-family: 'Volkhov';
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 120px;
 }
 
 .box{
@@ -529,7 +530,6 @@ header.sticky{
   }
 
   .wrapper{
-    background: linear-gradient(90deg, #880fc4 0%, #1d39f2 100%);
     min-height: auto;
     margin: auto;
     display: flex;
@@ -537,14 +537,9 @@ header.sticky{
     flex-direction: column;
     align-items: center;
     font-family: 'Poppins', sans-serif;
-    color: #fff;
+    color: #000000;
  }
- .wrapper h1{
-    font-size: 36px;
-    font-weight: 500;
-    margin: 50px 0;
-    text-align: center;
- }
+
  .card{
     width: 350px;
     height: 230px;
@@ -558,7 +553,7 @@ header.sticky{
  .card img{
     height: 100px;
     width: 100px;
-    border: 2px solid #f2f2f2;
+    border: 2px solid #e4e1e1;
     border-radius: 50%;
     position: absolute;
     top: -50px;
